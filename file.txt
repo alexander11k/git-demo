@@ -1,5 +1,9 @@
 first str
-second
+
 thirt 
 foutr
 This is test case
+
+
+I just add some new line
+new story
