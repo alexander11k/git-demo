@@ -10,4 +10,6 @@ I just add some new line
 new story
 ___________-___
 
-I add some new file
+git remote branch
+=======
+>>>>>>> parent of e302f62 (commit from gui)
